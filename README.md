@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://quoted-adion.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://quoted-adion.vercel.app/">
       Solution
     </a>
     <span> | </span>
@@ -38,22 +38,22 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://devchallenges.io/_next/image?url=https%3A%2F%2Ffirebasestorage.googleapis.com%2Fv0%2Fb%2Fdevchallenges-1234.appspot.com%2Fo%2FchallengesDesigns%252FquoteThumbnail.png%3Falt%3Dmedia%26token%3D156a0ff0-506a-4246-8422-eb1cedab5116&w=750&q=75)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- You can see my demo at the following URL: [https://quoted-adion.vercel.app/](https://quoted-adion.vercel.app/)
+- The experience was wonderful. It is really a nice project to do. Thanks to devchallenges.
+- I have improved my problem solving skills and fetching data. I have also improved typescript
+- I have mastered frontend with NEXTJS, ReactJS, tailwind, html, css and js. I am looking forward to become a full stack dev.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
+- [NextJS](https://nextjs.org/)
 - [Tailwind](https://tailwindcss.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 ## Features
 
@@ -70,7 +70,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/Adion52330/quoted.git
 
 # Install dependencies
 $ npm install
@@ -89,6 +89,7 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [adion.vercel.app](https://adion.vercel.app/)
+- GitHub [@adion52330](https://github.com/Adion52330)
+- Fiverr [@aditya52330](https://www.fiverr.com/aditya52330)
+- Instagram [@velocity.coder_aditya](https://www.instagram.com/velocity.coder_aditya/)
